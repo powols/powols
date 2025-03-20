@@ -1,2 +1,2 @@
-![GitHub followers](https://img.shields.io/github/followers/Emmett6401?style=social)
-![image](https://github.com/user-attachments/assets/871368e9-c12c-45d5-aeaa-13855c1809d6)
+![GitHub followers](https://img.shields.io/github/followers/powols?style=social)
+![image](https://github.com/user-attachments/assets/1b59ae9c-6f3b-49d4-9485-4ffbb521df60)
